@@ -1,0 +1,6 @@
+requests==2.26.0
+flask==2.0.2
+RPi.GPIO==0.7.0
+spidev
+pillow
+numpy
